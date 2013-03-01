@@ -1,11 +1,3 @@
-//
-//  UIImage+croppedImage.m
-//  CroppedImage
-//
-//  Created by Katsuma Tanaka on 2013/01/27.
-//  Copyright (c) 2013年 Katsuma Tanaka. All rights reserved.
-//
-
 #import "UIImage+croppedImage.h"
 
 @implementation UIImage (croppedImage)

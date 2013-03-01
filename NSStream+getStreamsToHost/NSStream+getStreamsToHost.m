@@ -1,11 +1,3 @@
-//
-//  NSStream+getStreamsToHost.m
-//  StreamTest
-//
-//  Created by questbeat on 2012/10/16.
-//  Copyright (c) 2012年 questbeat. All rights reserved.
-//
-
 #import "NSStream+getStreamsToHost.h"
 
 @implementation NSStream (getStreamsToHost)

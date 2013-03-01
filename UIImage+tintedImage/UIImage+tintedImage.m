@@ -1,11 +1,3 @@
-//
-//  UIImage+tintedImage.m
-//  QBTitleView
-//
-//  Created by Katsuma Tanaka on 2013/01/17.
-//  Copyright (c) 2013年 Katsuma Tanaka. All rights reserved.
-//
-
 #import "UIImage+tintedImage.h"
 
 @implementation UIImage (tintedImage)
